@@ -1,0 +1,12 @@
+# .gitignore
+
+.env              # Не пушим токены!
+*.db              # Базы данных
+__pycache__/      # Кэш Python
+*.pyc             # Скомпилированные файлы
+.DS_Store         # Мусор от macOS
+Thumbs.db         # Мусор от Windows
+*.log             # Лог-файлы
+dist/             # Папка с .exe
+build/            # Папка сборки
+*.spec            # Файлы PyInstaller

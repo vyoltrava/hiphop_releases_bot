@@ -1,0 +1,9 @@
+python-telegram-bot==20.7
+requests
+beautifulsoup4
+lxml
+python-dotenv
+schedule
+pytz
+pillow
+aiohttp
