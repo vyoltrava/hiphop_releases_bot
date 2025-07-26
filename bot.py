@@ -55,16 +55,6 @@ NEWS_SOURCES = [
         "base_url": "https://www.allhiphop.com"
     },
     {
-        "name": "Billboard Hip-Hop",
-        "url": "https://www.billboard.com/music/hip-hop/",
-        "item_selector": ".o-chart-results-list-row, .lrv-u-flex, .article",
-        "title_selector": "h3 a, .title, a",
-        "link_selector": "h3 a, .title a, a",
-        "description_selector": ".summary, .excerpt, .description",
-        "image_selector": "img[data-lazy-src], img[src], .media-image",
-        "base_url": "https://www.billboard.com"
-    },
-    {
         "name": "XXL News",
         "url": "https://xxl.com/news",
         "item_selector": ".article, .story, .post, .news-item",
